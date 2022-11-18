@@ -4,7 +4,7 @@ I am Matti Vihola, a Professor of Statistics at
 I am interested in computational statistics, applied probability, Monte Carlo methods and Bayesian inference.
 You can find most of my research codes here.
 
-You can find me also on 
+You can find me also in 
 [Google Scholar](http://scholar.google.fi/citations?user=nqLmOf4AAAAJ), 
 [arXiv](http://arxiv.org/a/vihola_m_1) and
-<a rel="me" href="https://sigmoid.social/@MattiVihola">Mastodon</a>
+<a rel="me" href="https://sigmoid.social/@MattiVihola">Mastodon</a>.
