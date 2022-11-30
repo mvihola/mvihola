@@ -1,4 +1,4 @@
-I am Matti Vihola, a Professor of Statistics at 
+I am a Professor of Statistics at 
 [University of Jyväskylä](http://www.jyu.fi/en), 
 [Department of Mathematics and Statistics](https://www.jyu.fi/maths/en/). 
 I am interested in computational statistics, applied probability, Monte Carlo methods and Bayesian inference.
