@@ -6,5 +6,5 @@ You can find most of my research codes here.
 
 You can find more stuff on my [home page](http://iki.fi/mvihola) and in my 
 [Google Scholar](http://scholar.google.fi/citations?user=nqLmOf4AAAAJ), 
-[arXiv](http://arxiv.org/a/vihola_m_1) and
+[arXiv](http://arxiv.org/a/vihola_m_1), <a rel="me" href="https://bsky.app/profile/mattivihola.bsky.social">Bluesky</a> and
 <a rel="me" href="https://sigmoid.social/@MattiVihola">Mastodon</a> profiles.
